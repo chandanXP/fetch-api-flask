@@ -1,0 +1,123 @@
+{
+    "0": {
+        "pid": 23010000,
+        "pname": "Mivi DuoPods M30 earbuds with 42 hours of playtime | Made in India | Deep Bass Bluetooth Headset",
+        "rank": 0,
+        "r_score": 559,
+        "eff_pos": 0.66,
+        "rcount": 2630,
+        "saved": 0,
+        "pos_count": 839,
+        "neg_count": 1791
+    },
+    "1": {
+        "pid": 23010001,
+        "pname": "OnePlus Bullets Wireless Z2 Bluetooth Headset",
+        "rank": 0,
+        "r_score": 146,
+        "eff_pos": 1.0,
+        "rcount": 1450,
+        "saved": 0,
+        "pos_count": 354,
+        "neg_count": 1096
+    },
+    "2": {
+        "pid": 23010002,
+        "pname": "HOPPUP GRAND With Power Bank Function & Upto 75 Hours Playtime Bluetooth Headset",
+        "rank": 0,
+        "r_score": 88,
+        "eff_pos": 0.46,
+        "rcount": 1290,
+        "saved": 0,
+        "pos_count": 468,
+        "neg_count": 822
+    },
+    "3": {
+        "pid": 23010003,
+        "pname": "boAt Rockerz 235 Pro with upto 20 Hours Playback and ASAP Charge Bluetooth Headset",
+        "rank": 0,
+        "r_score": 57,
+        "eff_pos": 0.78,
+        "rcount": 1248,
+        "saved": 0,
+        "pos_count": 227,
+        "neg_count": 1021
+    },
+    "4": {
+        "pid": 23010004,
+        "pname": "Aroma NB119 Titanium - 48 Hours Playtime Bluetooth Neckband Bluetooth Headset",
+        "rank": 0,
+        "r_score": 57,
+        "eff_pos": 0.58,
+        "rcount": 1211,
+        "saved": 0,
+        "pos_count": 265,
+        "neg_count": 946
+    },
+    "5": {
+        "pid": 23010005,
+        "pname": "OnePlus Nord Buds Bluetooth Headset",
+        "rank": 0,
+        "r_score": 158,
+        "eff_pos": 0.6,
+        "rcount": 1071,
+        "saved": 0,
+        "pos_count": 189,
+        "neg_count": 882
+    },
+    "6": {
+        "pid": 23010006,
+        "pname": "boAt Airdopes 161 with ASAP Charge, 10mm Drivers and 17-20 Hours Playback Bluetooth Headset",
+        "rank": 0,
+        "r_score": 96,
+        "eff_pos": 0.36,
+        "rcount": 990,
+        "saved": 0,
+        "pos_count": 250,
+        "neg_count": 740
+    },
+    "7": {
+        "pid": 23010007,
+        "pname": "Boult Audio Audio Airbass X50 with Quad Mic ENC, 40H Playtime with Gaming Mode On Bluetooth Headset",
+        "rank": 0,
+        "r_score": 79,
+        "eff_pos": 0.49,
+        "rcount": 848,
+        "saved": 0,
+        "pos_count": 130,
+        "neg_count": 718
+    },
+    "8": {
+        "pid": 23010008,
+        "pname": "Aroma NB119 Jersey - 48 Hours Playtime Fast Charging Wireless Bluetooth Neckband Bluetooth Headset",
+        "rank": 0,
+        "r_score": 26,
+        "eff_pos": 0.0,
+        "rcount": 759,
+        "saved": 0,
+        "pos_count": 207,
+        "neg_count": 552
+    },
+    "9": {
+        "pid": 23010009,
+        "pname": "HOPPUP SYNC with Bluetooth 5.1 & Type C Fast Charging Bluetooth Headset",
+        "rank": 0,
+        "r_score": 67,
+        "eff_pos": 0.52,
+        "rcount": 730,
+        "saved": 0,
+        "pos_count": 138,
+        "neg_count": 592
+    },
+    "10": {
+        "pid": 23010010,
+        "pname": "realme Techlife Buds T100 with up to 28 Hours Playback & AI ENC for Calls Bluetooth Headset",
+        "rank": 0,
+        "r_score": 68,
+        "eff_pos": 0.61,
+        "rcount": 730,
+        "saved": 0,
+        "pos_count": 127,
+        "neg_count": 603
+    }
+}
